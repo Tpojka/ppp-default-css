@@ -6,12 +6,16 @@
   "description": "CSS modifications of default theme for IPB 4.5",
 
   "icons": {
-    "16": "icon16.png"
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
   },
 
   "browser_action": {
     "default_icon": {
-      "16": "icon16.png"            // optional
+      "16": "icon16.png",            // optional
+      "48": "icon48.png",
+      "128": "icon128.png"
     },
     "default_title": "PPP CSS"      // optional; shown in tooltip
   },
