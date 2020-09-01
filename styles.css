@@ -1,0 +1,27 @@
+.ipsType_pageTitle {
+  color: #434343!important;
+}
+
+.ipsPagination:not( .ipsPagination_mini ) a {
+  color: #434343!important;
+}
+
+a.ipsType_sectionTitle, .ipsType_sectionTitle a {
+  color: #434343!important;
+}
+
+a.ipsType_blendLinks, .ipsType_blendLinks a {
+  color: #434343!important;
+}
+
+.ipsType_pageTitle {
+  color: #434343!important;
+}
+
+.ipsDataItem_title.ipsType_break > a {
+  color: #434343!important;
+}
+
+.ipsType_break.ipsContained > a > span {
+  color: #434343!important;
+}
