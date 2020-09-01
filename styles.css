@@ -25,3 +25,7 @@ a.ipsType_blendLinks, .ipsType_blendLinks a {
 .ipsType_break.ipsContained > a > span {
   color: #434343!important;
 }
+
+.ipsPagination .ipsPagination_page.ipsPagination_active a {
+  color: #eee!important;
+}
