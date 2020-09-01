@@ -6,12 +6,12 @@
   "description": "CSS modifications of default theme for IPB 4.5",
 
   "icons": {
-    "32": "favicon.png"
+    "16": "icon16.png"
   },
 
   "browser_action": {
     "default_icon": {
-      "32": "favicon.png"            // optional
+      "16": "icon16.png"            // optional
     },
     "default_title": "PPP CSS"      // optional; shown in tooltip
   },
