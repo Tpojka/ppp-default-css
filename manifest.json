@@ -4,6 +4,17 @@
   "name": "PPP Default CSS",
   "version": "0.0.1",
   "description": "CSS modifications of default theme for IPB 4.5",
+
+  "icons": {
+    "32": "favicon.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "32": "favicon.png"            // optional
+    },
+    "default_title": "PPP CSS"      // optional; shown in tooltip
+  },
  
   "content_scripts": [{
     "css": ["styles.css"],
