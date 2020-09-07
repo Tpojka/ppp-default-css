@@ -29,3 +29,8 @@ a.ipsType_blendLinks, .ipsType_blendLinks a {
 .ipsPagination .ipsPagination_page.ipsPagination_active a {
   color: #eee!important;
 }
+
+.ipsNotificationCount {
+  //background-color: #36AB81;
+  background-color: #bf3737!important;
+}
