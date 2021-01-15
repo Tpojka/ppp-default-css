@@ -34,3 +34,7 @@ a.ipsType_blendLinks, .ipsType_blendLinks a {
   //background-color: #36AB81;
   background-color: #bf3737!important;
 }
+
+.ipsType_blendLinks.ipsType_noUnderline, .ipsType_blendLinks.ipsType_noUnderline i {
+  color: #eee!important;
+}
